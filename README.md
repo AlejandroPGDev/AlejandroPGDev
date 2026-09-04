@@ -1,46 +1,116 @@
+<div align="center">
+
 # Alejandro Pérez García
-Desarrollador Backend | Estado de México, México
 
-Me especializo en el desarrollo backend, siendo PHP mi herramienta de trabajo principal. Mi enfoque técnico se centra en la construcción de APIs REST, el diseño de bases de datos relacionales y la estructuración de sistemas mediante Programación Orientada a Objetos.
+### Desarrollador Backend | PHP | APIs REST | Bases de Datos
 
-## Tecnologías y Herramientas
+Estado de México, México
 
-### Principal: Backend y Bases de Datos
-Mi experiencia y dominio principal están en el desarrollo del lado del servidor:
-- **Lenguaje Principal:** PHP 8 (OOP, PDO, Sesiones, Seguridad web)
-- **Arquitectura:** Diseño y consumo de APIs REST, manipulación de JSON
-- **Bases de Datos Relacionales:** MySQL, Microsoft SQL Server, PostgreSQL
+</div>
+
+---
+
+## Sobre mí
+
+Soy egresado de Ingeniería en Sistemas Computacionales, enfocado principalmente en el desarrollo Backend con **PHP**.
+
+Mi experiencia se centra en la construcción de sistemas web, desarrollo de **APIs REST**, programación orientada a objetos y manejo de bases de datos relacionales. También cuento con conocimientos de JavaScript para integrar la lógica del Backend con interfaces web.
+
+Me interesa seguir desarrollándome profesionalmente en el área de **Backend**, trabajando en proyectos donde pueda aplicar mis conocimientos y continuar fortaleciendo mis habilidades técnicas.
+
+---
+
+## Tecnologías
+
+### Backend
+
+- **PHP 8** — POO, PDO, sesiones, manejo de JSON, APIs REST y seguridad web.
+- **APIs REST** — Desarrollo y consumo de servicios, métodos HTTP y respuestas JSON.
+
+### Bases de datos
+
+- **MySQL**
+- **Microsoft SQL Server**
+- **PostgreSQL**
 
 ### Frontend
-Capacidad para integrar flujos backend con interfaces de usuario interactivas:
-- JavaScript (ES6, manipulación del DOM, Fetch API, AJAX)
-- Maquetado y estilos: HTML5, CSS3, Tailwind CSS
 
-### Lenguajes Complementarios
-- **Python:** Experiencia desarrollando scripts para la automatización de procesos operativos y herramientas de escritorio orientadas a datos.
-- **Java:** Conocimientos en programación orientada a objetos y fundamentos de lógica backend.
+- **JavaScript ES6** — DOM, Fetch API y AJAX.
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+
+### Lenguajes complementarios
+
+- **Python** — Automatización de procesos y desarrollo de herramientas de escritorio orientadas al manejo de datos.
+- **Java** — Programación Orientada a Objetos y fundamentos de programación.
 
 ### Herramientas
-- Git y GitHub
 
-### Idiomas
-- Español: Nativo
-- Inglés: A2
+- Git
+- GitHub
+- XAMPP
+- Apache
 
-## Proyectos Reales
+---
 
-### Sistema para Clínicas de Colposcopía (ISEM)
-Sistema web enfocado en la captura, validación y gestión de datos clínicos de pacientes.
-- **Tecnologías:** PHP, MySQL.
-- **Características:** Manejo de expedientes, flujos de datos médicos y generación automatizada de reportes formales y gráficos estadísticos para la toma de decisiones clínicas.
+## Proyectos destacados
 
-### Sistema de Automatización de Reportes (ISEM)
-Herramienta desarrollada para agilizar procesos administrativos y de reporte de datos operativos.
-- **Tecnologías:** Python, Microsoft SQL Server.
-- **Características:** Automatización de consultas a la base de datos centralizada, procesamiento de datos y generación dinámica de archivos Excel con gráficos interactivos integrados, eliminando la necesidad de reportes manuales.
+### Sistema para Clínicas de Colposcopía
+
+Sistema web desarrollado para el **Instituto de Salud del Estado de México (ISEM)**, enfocado en la captura, validación y gestión de información clínica.
+
+**Principales características:**
+
+- Gestión de expedientes y datos clínicos.
+- Procesamiento y validación de información.
+- Generación automatizada de reportes.
+- Generación de gráficos estadísticos.
+- Desarrollo de funcionalidades Backend y Frontend.
+
+**Tecnologías:**
+
+`PHP 8` `MySQL` `JavaScript` `Tailwind CSS` `APIs REST`
+
+---
+
+### Sistema de Automatización de Reportes
+
+Herramienta desarrollada para el **Instituto de Salud del Estado de México (ISEM)** para automatizar procesos relacionados con la consulta, procesamiento y generación de reportes.
+
+**Principales características:**
+
+- Consulta de información desde SQL Server.
+- Procesamiento y transformación de datos.
+- Automatización de reportes.
+- Generación de archivos Excel.
+- Generación de gráficos para facilitar el análisis de información.
+
+**Tecnologías:**
+
+`Python` `SQL Server` `Pandas` `OpenPyXL`
+
+---
+
+## Idiomas
+
+- **Español:** Nativo
+- **Inglés:** A2
+
+---
 
 ## Contacto
 
-- **Correo electrónico:** [ap736g@gmail.com](mailto:ap736g@gmail.com)
-- **GitHub:** [AlejandroPGDev](https://github.com/AlejandroPGDev)
-- **Ubicación:** Estado de México, México
+**Correo:** ap736g@gmail.com
+
+**GitHub:** [AlejandroPGDev](https://github.com/AlejandroPGDev)
+
+**Ubicación:** Estado de México, México
+
+---
+
+<div align="center">
+
+### Backend · PHP · APIs REST · SQL
+
+</div>
