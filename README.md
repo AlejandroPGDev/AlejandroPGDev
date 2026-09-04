@@ -36,7 +36,7 @@
  * arquitecturas eficientes, seguras y escalables.
  *
  * @autor     Alejandro Perez Garcia
- * @ubicacion Estado de Mexico, Mexico
+ * @ubicacion Calimaya, Estado de Mexico, Mexico
  * @version   2026
  */
 class Desarrollador
@@ -44,6 +44,7 @@ class Desarrollador
     // Informacion Personal
     public string $nombre    = 'Alejandro Perez Garcia';
     public string $rol       = 'Desarrollador Backend';
+    public string $ubicacion = 'Calimaya, Estado de Mexico, Mexico';
     public string $idiomas   = 'Espanol (nativo) / Ingles (tecnico)';
 
     // Habilidades Tecnicas
@@ -83,7 +84,7 @@ echo $alejandro->pasion();
 <table width="100%">
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/googlemaps/39D0FF" width="16"/></td>
-    <td><span style="color:#F0F6FC">Estado de México, México</span></td>
+    <td><span style="color:#F0F6FC">Calimaya, Estado de México, México</span></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/academia/A371F7" width="16"/></td>
@@ -337,7 +338,7 @@ echo $alejandro->pasion();
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlejandroPGDev-21262d?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117)](https://github.com/AlejandroPGDev)
-[![Correo](https://img.shields.io/badge/Gmail-Contáctame-21262d?style=for-the-badge&logo=gmail&logoColor=39D0FF&labelColor=0d1117)](mailto:tu@email.com)
+[![Correo](https://img.shields.io/badge/Gmail-ap736g@gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=39D0FF&labelColor=0d1117)](mailto:ap736g@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-21262d?style=for-the-badge&logo=linkedin&logoColor=A371F7&labelColor=0d1117)](https://linkedin.com)
 
 <br/><br/>
