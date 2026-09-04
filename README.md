@@ -212,32 +212,11 @@ presentar, ahorrándole al equipo varias horas de trabajo manual cada semana.
 
 <div align="center">
 
-<table width="100%" align="center">
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroPGDev&show_icons=true&bg_color=0d1117&title_color=00D2FF&icon_color=A855F7&text_color=E2E8F0&border_color=30363d&locale=es&ring_color=F43F5E" alt="Estadísticas de GitHub" width="100%" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPGDev&layout=compact&langs_count=6&bg_color=0d1117&title_color=A855F7&text_color=E2E8F0&border_color=30363d" alt="Lenguajes Top" width="100%" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroPGDev&background=0d1117&stroke=30363d&ring=F43F5E&fire=00D2FF&currStreakNum=E2E8F0&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=E2E8F0&dates=8B949E&locale=es&border=30363d" alt="Racha de contribuciones" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroPGDev&background=0d1117&stroke=30363d&ring=F43F5E&fire=00D2FF&currStreakNum=E2E8F0&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=E2E8F0&dates=8B949E&locale=es&border=30363d" alt="Racha de contribuciones" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPGDev&bg_color=0d1117&color=E2E8F0&line=A855F7&point=F43F5E&area=true&area_color=00D2FF&hide_border=true&custom_title=Historial%20de%20Contribuciones" alt="Gráfico de Contribuciones" width="100%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://komarev.com/ghpvc/?username=AlejandroPGDev&label=VISITAS+AL+PERFIL&color=A855F7&style=for-the-badge" alt="Visitas al perfil" />
 
 </div>
 
