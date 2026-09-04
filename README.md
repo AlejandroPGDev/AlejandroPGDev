@@ -45,9 +45,9 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 <br/><br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
 <br/><br/>
-[![APIs REST](https://img.shields.io/badge/APIs_REST-21262d?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)](#)
-[![POO & PDO](https://img.shields.io/badge/POO_&_PDO-21262d?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](#)
-[![Sesiones & Auth](https://img.shields.io/badge/Sesiones_&_Auth-21262d?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117)](#)
+<img src="https://img.shields.io/badge/APIs_REST-21262d?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/POO_%26_PDO-21262d?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Sesiones_%26_Auth-21262d?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117" />
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Bases_de_Datos-0d1117?style=flat-square&logo=mysql&logoColor=06B6D4&labelColor=0d1117&color=21262d" />
@@ -84,43 +84,103 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <br/>
 
-<table align="center" width="100%">
+<!-- PROYECTO 1: SISTEMA CLINICAS -->
+<div align="center">
+<table>
 <tr>
-<td align="center" width="50%" valign="top">
-<br/>
-<img src="https://cdn.simpleicons.org/php/8B5CF6" width="36"/>
-<br/><br/>
-<strong style="color:#F0F6FC">Sistema para Clínicas de Colposcopía</strong><br/>
-<sub>Desarrollado para el <b>ISEM</b></sub>
-<br/><br/>
-<p align="center" style="color:#8B949E; font-size:14px; max-width:90%">
-Sistema web para capturar, validar y gestionar expedientes clínicos. Genera reportes institucionales y gráficos estadísticos automáticos que el área médica usa para sus decisiones operativas.
-</p>
-<br/>
-<img src="https://img.shields.io/badge/PHP_8-0d1117?style=flat-square&logo=php&logoColor=8B5CF6&color=21262d" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=06B6D4&color=21262d" />
-<img src="https://img.shields.io/badge/API_REST-0d1117?style=flat-square&logo=postman&logoColor=white&color=21262d" />
-<br/><br/>
-</td>
+<td width="100%">
 
-<td align="center" width="50%" valign="top">
-<br/>
-<img src="https://cdn.simpleicons.org/python/06B6D4" width="36"/>
-<br/><br/>
-<strong style="color:#F0F6FC">Automatización de Reportes</strong><br/>
-<sub>Desarrollado para el <b>ISEM</b></sub>
-<br/><br/>
-<p align="center" style="color:#8B949E; font-size:14px; max-width:90%">
-Herramienta de escritorio que extrae datos masivos de SQL Server y genera archivos Excel con gráficos listos para presentar. Le quitó horas de trabajo manual al equipo cada semana.
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/php/8B5CF6" width="28"/>
+&nbsp; Sistema para Clínicas de Colposcopía
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-0d1117?style=flat-square&labelColor=8B5CF6&color=21262d" />
 </p>
-<br/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=06B6D4&color=21262d" />
-<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoft-sql-server&logoColor=white&color=21262d" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white&color=21262d" />
-<br/><br/>
+
+<!-- 📸 Descomenta la siguiente línea cuando subas la captura a /assets -->
+<!-- <p align="center"><img src="assets/clinicas-preview.png" width="90%" /></p> -->
+
+<p align="center">
+Sistema web completo para el manejo de expedientes en clínicas de colposcopía del ISEM.<br/>
+Captura y valida datos clínicos, lleva el control de pacientes y genera reportes<br/>
+institucionales con gráficos estadísticos de forma automática.
+</p>
+
+<p align="center">
+<strong>¿Qué hace?</strong>
+</p>
+
+<ul>
+<li>Registro y búsqueda de expedientes clínicos con validación en tiempo real</li>
+<li>Generación automática de reportes PDF e informes estadísticos</li>
+<li>Gráficos dinámicos para el área médica (tendencias, indicadores, cobertura)</li>
+<li>Control de acceso por roles y bitácora de movimientos</li>
+<li>API REST para comunicación entre módulos</li>
+</ul>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP_8-0d1117?style=for-the-badge&logo=php&logoColor=8B5CF6&color=21262d" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=06B6D4&color=21262d" />
+<img src="https://img.shields.io/badge/API_REST-0d1117?style=for-the-badge&logo=postman&logoColor=white&color=21262d" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=21262d" />
+<img src="https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=EC4899&color=21262d" />
+</p>
+
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+<!-- PROYECTO 2: ITDE -->
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/python/06B6D4" width="28"/>
+&nbsp; ITDE — Automatización de Reportes
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-0d1117?style=flat-square&labelColor=06B6D4&color=21262d" />
+</p>
+
+<!-- 📸 Descomenta la siguiente línea cuando subas la captura a /assets -->
+<!-- <p align="center"><img src="assets/itde-preview.png" width="90%" /></p> -->
+
+<p align="center">
+Herramienta de escritorio que automatiza la extracción y transformación de datos<br/>
+desde SQL Server. Genera archivos Excel con gráficos integrados listos para<br/>
+presentar, ahorrándole al equipo varias horas de trabajo manual cada semana.
+</p>
+
+<p align="center">
+<strong>¿Qué hace?</strong>
+</p>
+
+<ul>
+<li>Conexión directa a SQL Server para consultas masivas de datos</li>
+<li>Transformación y limpieza automática con Pandas</li>
+<li>Generación de archivos Excel (.xlsx) con gráficos interactivos ya formateados</li>
+<li>Reducción del tiempo operativo del equipo de horas a minutos</li>
+</ul>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=06B6D4&color=21262d" />
+<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=21262d" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white&color=21262d" />
+<img src="https://img.shields.io/badge/OpenPyXL-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=06B6D4&color=21262d" />
+</p>
+
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 <div align="center">
