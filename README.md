@@ -15,7 +15,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/AlejandroPGDev"><img src="https://img.shields.io/badge/AlejandroPGDev-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=161B22" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Edo._de_México-F43F5E?style=for-the-badge&logo=googlemaps&logoColor=white&label=UBICACIÓN&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Edo._de_Mexico-F43F5E?style=for-the-badge&logo=googlemaps&logoColor=white&label=UBICACION&labelColor=161B22" />
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=2&section=header" width="100%" />
