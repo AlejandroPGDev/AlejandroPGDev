@@ -191,6 +191,46 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 </div>
 <br/>
 
+<!-- ══════════════════════════ REPOSITORIOS DESTACADOS ══════════════════════════ -->
+<h2 align="center">Repositorios Destacados</h2>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlejandroPGDev/Practica-POO-y-login-PHP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Practica-POO-y-login-PHP&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=F43F5E&text_color=E2E8F0" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlejandroPGDev/Proyecto-js">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Proyecto-js&bg_color=0D1117&border_color=30363d&title_color=A855F7&icon_color=00D2FF&text_color=E2E8F0" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlejandroPGDev/mi_primer_repositorio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=mi_primer_repositorio&bg_color=0D1117&border_color=30363d&title_color=F43F5E&icon_color=A855F7&text_color=E2E8F0" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AlejandroPGDev/Ejemplo_git_pull">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Ejemplo_git_pull&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=F43F5E&text_color=E2E8F0" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=2&section=header" width="100%" />
+</div>
+<br/>
+
 <!-- ══════════════════════════ MÉTRICAS Y ACTIVIDAD ══════════════════════════ -->
 <h2 align="center">Actividad en GitHub</h2>
 
