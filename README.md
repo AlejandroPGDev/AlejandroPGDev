@@ -119,19 +119,21 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <!-- PROYECTO 1: SISTEMA CLINICAS -->
 <div align="center">
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+<table width="85%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
 <tr>
-  <td width="50%" align="center" style="padding: 15px;">
-    <img src="assets/Imagen_Sistema_colposcopia.png" width="100%" style="border-radius:8px" />
+  <td align="center" style="padding: 0;">
+    <img src="assets/Imagen_Sistema_colposcopia.png" width="100%" style="border-radius: 8px 8px 0 0; display: block;" />
   </td>
-  <td width="50%" align="left" style="padding: 20px;">
+</tr>
+<tr>
+  <td align="left" style="padding: 25px;">
     <h3><img src="https://cdn.simpleicons.org/php/A855F7" width="22" align="center"/> Sistema para Clínicas de Colposcopía</h3>
     <img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=A855F7&color=161B22" />
     <br/><br/>
     <p>
       Sistema web completo para el manejo de expedientes en clínicas de colposcopía del ISEM. Captura y valida datos clínicos, lleva el control de pacientes y genera reportes institucionales con gráficos estadísticos de forma automática.
     </p>
-    <b>⚡ Características principales:</b>
+    <b>Características principales:</b>
     <ul>
       <li>Registro y validación de expedientes en tiempo real.</li>
       <li>Generación automática de reportes PDF.</li>
@@ -152,19 +154,21 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <!-- PROYECTO 2: ITDE -->
 <div align="center">
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+<table width="85%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
 <tr>
-  <td width="50%" align="center" style="padding: 15px;">
-    <img src="assets/ITDE_SISTEMA.png" width="100%" style="border-radius:8px" />
+  <td align="center" style="padding: 0;">
+    <img src="assets/ITDE_SISTEMA.png" width="100%" style="border-radius: 8px 8px 0 0; display: block;" />
   </td>
-  <td width="50%" align="left" style="padding: 20px;">
+</tr>
+<tr>
+  <td align="left" style="padding: 25px;">
     <h3><img src="https://cdn.simpleicons.org/python/00D2FF" width="22" align="center"/> ITDE — Automatización de Reportes</h3>
     <img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=00D2FF&color=161B22" />
     <br/><br/>
     <p>
       Herramienta de escritorio que automatiza la extracción y transformación de datos desde SQL Server. Genera archivos Excel con gráficos integrados listos para presentar, ahorrándole al equipo varias horas de trabajo manual cada semana.
     </p>
-    <b>⚡ Características principales:</b>
+    <b>Características principales:</b>
     <ul>
       <li>Consultas masivas automatizadas a SQL Server.</li>
       <li>Transformación y limpieza de datos con Pandas.</li>
