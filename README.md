@@ -28,15 +28,27 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=40&text=perfil.json&fontColor=ffffff&fontSize=16&fontAlignY=62" width="100%" style="border-radius:10px 10px 0 0;" />
+
+```json
+{
+  "nombre": "Alejandro Pérez",
+  "titulacion": "Ingeniero en Sistemas",
+  "rol": "Backend Developer",
+  "stack_principal": [
+    "PHP",
+    "MySQL",
+    "APIs REST"
+  ],
+  "otras_herramientas": [
+    "PostgreSQL",
+    "SQL Server",
+    "JavaScript"
+  ]
+}
 ```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   > Ingeniero en Sistemas · Backend Developer                ║
- ║   > Stack principal: PHP + MySQL + APIs REST                 ║
- ║   > También: PostgreSQL, SQL Server, JavaScript              ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=8" width="100%" style="border-radius:0 0 10px 10px;" />
 
 </div>
 
