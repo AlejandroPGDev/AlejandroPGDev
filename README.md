@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=220&section=header&text=Alejandro%20P%C3%A9rez%20Garc%C3%ADa&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20SQL&descAlignY=56&descSize=16&descColor=E2E8F0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=220&section=header&text=Alejandro%20P%C3%A9rez%20Garc%C3%ADa&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20SQL&descAlignY=56&descSize=16&descColor=E2E8F0" />
 
 <!-- TYPING -->
 <a href="https://github.com/AlejandroPGDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=Sistemas+web+y+APIs+REST+con+PHP;MySQL+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Dise%C3%B1o+de+bases+de+datos+relacionales;C%C3%B3digo+limpio+y+funcional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=Sistemas+web+y+APIs+REST+con+PHP;MySQL+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Dise%C3%B1o+de+bases+de+datos+relacionales;C%C3%B3digo+limpio+y+funcional" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- CONTACTO -->
-<a href="mailto:ap736g@gmail.com"><img src="https://img.shields.io/badge/ap736g@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=00D2FF" /></a>
+<a href="mailto:ap736g@gmail.com"><img src="https://img.shields.io/badge/ap736g@gmail.com-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=161B22" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/TU-USUARIO-AQUI"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="https://www.linkedin.com/in/AlejandroPGDev"><img src="https://img.shields.io/badge/AlejandroPGDev-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=161B22" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Estado_de_México-161B22?style=for-the-badge&logo=googlemaps&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/Edo._de_México-F43F5E?style=for-the-badge&logo=googlemaps&logoColor=white&label=UBICACIÓN&labelColor=161B22" />
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=2&section=header" width="100%" />
