@@ -119,47 +119,31 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <!-- PROYECTO 1: SISTEMA CLINICAS -->
 <div align="center">
-<table>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
 <tr>
-<td>
-
-<h3 align="center">
-<img src="https://cdn.simpleicons.org/php/A855F7" width="28"/>
-&nbsp; Sistema para Clínicas de Colposcopía
-</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=A855F7&color=161B22" />
-</p>
-
-<p align="center"><img src="assets/Imagen_Sistema_colposcopia.png" width="90%" style="border-radius:8px" /></p>
-
-<p align="center">
-Sistema web completo para el manejo de expedientes en clínicas de colposcopía del ISEM.<br/>
-Captura y valida datos clínicos, lleva el control de pacientes y genera reportes<br/>
-institucionales con gráficos estadísticos de forma automática.
-</p>
-
-<blockquote>
-
-**¿Qué hace?**
-- Registro y búsqueda de expedientes clínicos con validación en tiempo real
-- Generación automática de reportes PDF e informes estadísticos
-- Gráficos dinámicos para el área médica (tendencias, indicadores, cobertura)
-- Control de acceso por roles y bitácora de movimientos
-- API REST para comunicación entre módulos
-
-</blockquote>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PHP_8-161B22?style=for-the-badge&logo=php&logoColor=A855F7&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=00D2FF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/API_REST-161B22?style=for-the-badge&logo=postman&logoColor=F43F5E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Chart.js-161B22?style=for-the-badge&logo=chartdotjs&logoColor=00D2FF&labelColor=0d1117" />
-</p>
-
-</td>
+  <td width="50%" align="center" style="padding: 15px;">
+    <img src="assets/Imagen_Sistema_colposcopia.png" width="100%" style="border-radius:8px" />
+  </td>
+  <td width="50%" align="left" style="padding: 20px;">
+    <h3><img src="https://cdn.simpleicons.org/php/A855F7" width="22" align="center"/> Sistema para Clínicas de Colposcopía</h3>
+    <img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=A855F7&color=161B22" />
+    <br/><br/>
+    <p>
+      Sistema web completo para el manejo de expedientes en clínicas de colposcopía del ISEM. Captura y valida datos clínicos, lleva el control de pacientes y genera reportes institucionales con gráficos estadísticos de forma automática.
+    </p>
+    <b>⚡ Características principales:</b>
+    <ul>
+      <li>Registro y validación de expedientes en tiempo real.</li>
+      <li>Generación automática de reportes PDF.</li>
+      <li>Gráficos dinámicos para indicadores médicos.</li>
+      <li>API REST para comunicación entre módulos.</li>
+    </ul>
+    <br/>
+    <img src="https://img.shields.io/badge/PHP_8-161B22?style=for-the-badge&logo=php&logoColor=A855F7&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=00D2FF&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/API_REST-161B22?style=for-the-badge&logo=postman&logoColor=F43F5E&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" />
+  </td>
 </tr>
 </table>
 </div>
@@ -168,45 +152,31 @@ institucionales con gráficos estadísticos de forma automática.
 
 <!-- PROYECTO 2: ITDE -->
 <div align="center">
-<table>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
 <tr>
-<td>
-
-<h3 align="center">
-<img src="https://cdn.simpleicons.org/python/00D2FF" width="28"/>
-&nbsp; ITDE — Automatización de Reportes
-</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=00D2FF&color=161B22" />
-</p>
-
-<p align="center"><img src="assets/ITDE_SISTEMA.png" width="90%" style="border-radius:8px" /></p>
-
-<p align="center">
-Herramienta de escritorio que automatiza la extracción y transformación de datos<br/>
-desde SQL Server. Genera archivos Excel con gráficos integrados listos para<br/>
-presentar, ahorrándole al equipo varias horas de trabajo manual cada semana.
-</p>
-
-<blockquote>
-
-**¿Qué hace?**
-- Conexión directa a SQL Server para consultas masivas de datos
-- Transformación y limpieza automática con Pandas
-- Generación de archivos Excel (.xlsx) con gráficos interactivos ya formateados
-- Reducción del tiempo operativo del equipo de horas a minutos
-
-</blockquote>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00D2FF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logo=microsoft-sql-server&logoColor=A855F7&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=F43F5E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenPyXL-161B22?style=for-the-badge&logo=microsoftexcel&logoColor=00D2FF&labelColor=0d1117" />
-</p>
-
-</td>
+  <td width="50%" align="center" style="padding: 15px;">
+    <img src="assets/ITDE_SISTEMA.png" width="100%" style="border-radius:8px" />
+  </td>
+  <td width="50%" align="left" style="padding: 20px;">
+    <h3><img src="https://cdn.simpleicons.org/python/00D2FF" width="22" align="center"/> ITDE — Automatización de Reportes</h3>
+    <img src="https://img.shields.io/badge/ISEM-Proyecto_Institucional-161B22?style=flat-square&labelColor=00D2FF&color=161B22" />
+    <br/><br/>
+    <p>
+      Herramienta de escritorio que automatiza la extracción y transformación de datos desde SQL Server. Genera archivos Excel con gráficos integrados listos para presentar, ahorrándole al equipo varias horas de trabajo manual cada semana.
+    </p>
+    <b>⚡ Características principales:</b>
+    <ul>
+      <li>Consultas masivas automatizadas a SQL Server.</li>
+      <li>Transformación y limpieza de datos con Pandas.</li>
+      <li>Generación de reportes Excel (.xlsx) con gráficos.</li>
+      <li>Reducción del tiempo operativo a minutos.</li>
+    </ul>
+    <br/>
+    <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=00D2FF&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/SQL_Server-161B22?style=for-the-badge&logo=microsoft-sql-server&logoColor=A855F7&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=F43F5E&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/OpenPyXL-161B22?style=for-the-badge&logo=microsoftexcel&logoColor=00D2FF&labelColor=0d1117" />
+  </td>
 </tr>
 </table>
 </div>
