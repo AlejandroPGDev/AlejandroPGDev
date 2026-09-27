@@ -224,7 +224,7 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <!-- FILOSOFIA -->
 <a href="https://github.com/AlejandroPGDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=A855F7&background=0D111700&center=true&vCenter=true&width=450&height=40&lines=Código+limpio+y+funcional+☕;Bases+de+datos+con+sentido+🗄️;Primero+funciona,+luego+es+elegante+✨" alt="Filosofía dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=A855F7&background=0D111700&center=true&vCenter=true&width=450&height=40&lines=C%C3%B3digo+limpio+y+funcional;Bases+de+datos+con+sentido;Primero+funciona+luego+es+elegante" alt="Filosofia dev" />
 </a>
 
 <br/><br/>
