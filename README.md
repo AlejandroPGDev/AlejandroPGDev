@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=220&section=header&text=Alejandro%20P%C3%A9rez%20Garc%C3%ADa&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20SQL&descAlignY=56&descSize=16&descColor=E2E8F0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=250&section=header&text=Alejandro%20P%C3%A9rez%20Garc%C3%ADa&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20SQL%20%C2%B7%20APIs%20REST&descAlignY=52&descSize=18&descColor=E2E8F0&stroke=FFFFFF&strokeWidth=1" />
 
 <!-- TYPING -->
 <a href="https://github.com/AlejandroPGDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=Sistemas+web+y+APIs+REST+con+PHP;MySQL+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Dise%C3%B1o+de+bases+de+datos+relacionales;C%C3%B3digo+limpio+y+funcional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&background=0D111700&center=true&vCenter=true&width=850&height=55&lines=Sistemas+web+y+APIs+REST+con+PHP;MySQL+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Dise%C3%B1o+de+bases+de+datos+relacionales;C%C3%B3digo+limpio+y+funcional;Automatizaci%C3%B3n+de+reportes+con+Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,7 +13,7 @@
 <!-- CONTACTO -->
 <a href="mailto:ap736g@gmail.com"><img src="https://img.shields.io/badge/ap736g@gmail.com-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=161B22" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/AlejandroPGDev"><img src="https://img.shields.io/badge/AlejandroPGDev-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=161B22" /></a>
+<a href="https://www.linkedin.com/in/alejandro-perez-garc%C3%ADa-0231073b5"><img src="https://img.shields.io/badge/Alejandro_Pérez-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=161B22" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Edo._de_Mexico-F43F5E?style=for-the-badge&logo=googlemaps&logoColor=white&label=UBICACION&labelColor=161B22" />
 
@@ -238,7 +238,24 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <div align="center">
 
+<!-- GITHUB STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=AlejandroPGDev&show_icons=true&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=A855F7&text_color=E2E8F0&locale=es&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPGDev&layout=compact&bg_color=0D1117&border_color=30363d&title_color=A855F7&text_color=E2E8F0&locale=es&hide_border=false&langs_count=8" alt="Lenguajes más usados" width="40%" />
+
+<br/><br/>
+
+<!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroPGDev&background=0d1117&stroke=30363d&ring=F43F5E&fire=00D2FF&currStreakNum=E2E8F0&currStreakLabel=A855F7&sideNums=E2E8F0&sideLabels=E2E8F0&dates=8B949E&locale=es&border=30363d" alt="Racha de contribuciones" width="70%" />
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
@@ -249,4 +266,4 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:A855F7,100:F43F5E&height=160&section=footer&animation=twinkling" />
