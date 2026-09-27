@@ -191,54 +191,7 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 </div>
 <br/>
 
-<!-- ══════════════════════════ REPOSITORIOS DESTACADOS ══════════════════════════ -->
-<h2 align="center">Repositorios Destacados</h2>
 
-<br/>
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlejandroPGDev/Practica-POO-y-login-PHP">
-        <img src="https://img.shields.io/badge/Practica--POO--y--login--PHP-161B22?style=for-the-badge&logo=php&logoColor=00D2FF&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>🔐 Login con sesiones y POO en PHP</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlejandroPGDev/Proyecto-js">
-        <img src="https://img.shields.io/badge/Proyecto--js-161B22?style=for-the-badge&logo=javascript&logoColor=A855F7&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>⚡ Proyecto práctico con JavaScript</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlejandroPGDev/mi_primer_repositorio">
-        <img src="https://img.shields.io/badge/mi__primer__repositorio-161B22?style=for-the-badge&logo=github&logoColor=F43F5E&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>🚀 Primer repositorio en GitHub</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/AlejandroPGDev/Ejemplo_git_pull">
-        <img src="https://img.shields.io/badge/Ejemplo__git__pull-161B22?style=for-the-badge&logo=git&logoColor=00D2FF&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>🔄 Ejemplo práctico de git pull</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=2&section=header" width="100%" />
-</div>
-<br/>
 
 <!-- ══════════════════════════ MÉTRICAS Y ACTIVIDAD ══════════════════════════ -->
 <h2 align="center">Actividad en GitHub</h2>
