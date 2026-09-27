@@ -247,8 +247,20 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <div align="center">
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=AlejandroPGDev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos GitHub" width="100%" />
+<!-- LOGROS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,50:A855F7,100:F43F5E&height=36&text=⚡%20LOGROS%20⚡&fontColor=ffffff&fontSize=14&fontAlignY=58" width="60%" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🎓_Ingeniero_en_Sistemas-0d1117?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼_Backend_Developer-0d1117?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🏥_Proyectos_ISEM-0d1117?style=for-the-badge&labelColor=0d1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/PHP-+2_años_de_experiencia-00D2FF?style=flat-square&logo=php&logoColor=white&labelColor=161B22" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-Diseño_de_BDs_relacionales-A855F7?style=flat-square&logo=mysql&logoColor=white&labelColor=161B22" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Automatización_de_reportes-F43F5E?style=flat-square&logo=python&logoColor=white&labelColor=161B22" />
 
 <br/><br/>
 
@@ -257,8 +269,10 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPGDev&bg_color=0d1117&color=E2E8F0&line=A855F7&point=00D2FF&area=true&area_color=A855F7&hide_border=true" alt="Gráfico de actividad" width="100%" />
+<!-- FILOSOFIA -->
+<a href="https://github.com/AlejandroPGDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A855F7&background=0D111700&center=true&vCenter=true&width=600&height=40&lines=%22El+c%C3%B3digo+limpio+no+se+escribe+siguiendo+reglas%2C+se+escribe+con+disciplina.%22;%22Primero+haz+que+funcione%2C+luego+haz+que+sea+elegante.%22;%22La+mejor+base+de+datos+es+la+que+tiene+sentido.%22" alt="Filosofía dev" />
+</a>
 
 <br/><br/>
 
