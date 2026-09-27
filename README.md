@@ -201,25 +201,34 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlejandroPGDev/Practica-POO-y-login-PHP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Practica-POO-y-login-PHP&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=F43F5E&text_color=E2E8F0" />
+        <img src="https://img.shields.io/badge/Practica--POO--y--login--PHP-161B22?style=for-the-badge&logo=php&logoColor=00D2FF&labelColor=0d1117" />
       </a>
+      <br/>
+      <sub>🔐 Login con sesiones y POO en PHP</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/AlejandroPGDev/Proyecto-js">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Proyecto-js&bg_color=0D1117&border_color=30363d&title_color=A855F7&icon_color=00D2FF&text_color=E2E8F0" />
+        <img src="https://img.shields.io/badge/Proyecto--js-161B22?style=for-the-badge&logo=javascript&logoColor=A855F7&labelColor=0d1117" />
       </a>
+      <br/>
+      <sub>⚡ Proyecto práctico con JavaScript</sub>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/AlejandroPGDev/mi_primer_repositorio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=mi_primer_repositorio&bg_color=0D1117&border_color=30363d&title_color=F43F5E&icon_color=A855F7&text_color=E2E8F0" />
+        <img src="https://img.shields.io/badge/mi__primer__repositorio-161B22?style=for-the-badge&logo=github&logoColor=F43F5E&labelColor=0d1117" />
       </a>
+      <br/>
+      <sub>🚀 Primer repositorio en GitHub</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/AlejandroPGDev/Ejemplo_git_pull">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroPGDev&repo=Ejemplo_git_pull&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=F43F5E&text_color=E2E8F0" />
+        <img src="https://img.shields.io/badge/Ejemplo__git__pull-161B22?style=for-the-badge&logo=git&logoColor=00D2FF&labelColor=0d1117" />
       </a>
+      <br/>
+      <sub>🔄 Ejemplo práctico de git pull</sub>
     </td>
   </tr>
 </table>
@@ -238,10 +247,8 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=AlejandroPGDev&show_icons=true&bg_color=0D1117&border_color=30363d&title_color=00D2FF&icon_color=A855F7&text_color=E2E8F0&locale=es&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPGDev&layout=compact&bg_color=0D1117&border_color=30363d&title_color=A855F7&text_color=E2E8F0&locale=es&hide_border=false&langs_count=8" alt="Lenguajes más usados" width="40%" />
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=AlejandroPGDev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos GitHub" width="100%" />
 
 <br/><br/>
 
@@ -250,12 +257,8 @@ Manejo **MySQL**, **PostgreSQL** y **SQL Server** en el día a día, y uso **Jav
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AlejandroPGDev/AlejandroPGDev/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPGDev&bg_color=0d1117&color=E2E8F0&line=A855F7&point=00D2FF&area=true&area_color=A855F7&hide_border=true" alt="Gráfico de actividad" width="100%" />
 
 <br/><br/>
 
